@@ -125,3 +125,18 @@ plt.show()
 
 df.to_csv('dataset_ataque_cardiaco.csv', index=False) #Se utilizó para descargar el dataset limpio.
 
+!pip install pandas_profiling==3.0.0 # Esta biblioteca proporciona un informe de análisis exploratorio de datos (EDA) con una sola línea de código
+
+import pandas_profiling
+
+# Generar el informe
+ataquecardiacoProfile = pandas_profiling.ProfileReport(df)
+
+# Guardar el informe como un archivo HTML
+ataquecardiacoProfile.to_file(output_file="AtaquecardiacoDataProfile.html")
+
+# Si deseas visualizar el informe dentro del notebook puedes usar la siguiente línea:
+# ataquecardiacoProfile.to_notebook_iframe()
+
+ataquecardiacoProfile.to_notebook_iframe()# Si deseas visualizar el informe dentro del notebook puedes usar la siguiente línea:
+# ataquecardiacoProfile.to_notebook_iframe()
