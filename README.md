@@ -112,8 +112,7 @@ plt.show()
 
 # Creando una figura con dimensiones específicas (10x10 pulgadas)
 fig=plt.figure(figsize=(10,10))
-
-# Creando un diagrama de caja (boxplot) para la columna 'Cholesterol' del DataFrame df
+# Creando un diagrama de caja (boxplot) para la columna 'Physical-Activity-Days-Per-Week' del DataFrame df
 # Esto ayuda a visualizar la distribución de los datos, identificar outliers, y observar la tendencia central y dispersión
 sns.boxplot(y=df["Physical-Activity-Days-Per-Week"])
 
