@@ -24,8 +24,8 @@ Y en el otro gráfico de anillos compara la suma de los días de actividad físi
 *Utilicé un gráfico de columnas apiladas en el cual hace el recuento de obesidad entre el género masculino y femenino. Como se puede apreciar, el género masculino tiene más problemas de obesidad como el género femenino. 
 *Utilicé un gráfico de columnas agrupadas en el cual hace un recuento de la historia familiar entre el género femenino y masculino, e indica que los hombres son más propensos a sufrir un ataque cardíaco.
 # Conclusiones:
-Basándonos en los datos recopilados, se llegó a la conclusión de que existe un riesgo significativo de que una gran parte de la población pueda experimentar un ataque cardíaco.
-Este riesgo se fundamenta en el análisis realizado, el cual fue de gran ayuda para identificar varios aspectos los cuales aumentan la probabilidad de sufrir un ataque cardíaco. 
+Basándonos en los datos recopilados, se llegó a la conclusión de que dependiendo del estilo de vida de las personas puede existir un riesgo significativo de que una gran parte de la población pueda experimentar un ataque cardíaco.
+Este riesgo se fundamenta en el análisis realizado, el cual fue de gran ayuda para identificar varios aspectos los cuales pueden aumentar la probabilidad de sufrir un ataque cardíaco. 
 # Descripción del proyecto:
 Para la elaboración de este proyecto, se recopilaron datos de pacientes y se procedió a realizar una limpieza de los mismos. Esta limpieza fue necesaria para especificar ciertos datos y garantizar una mayor claridad en el análisis. Una vez que los datos estuvieron limpios, se empleó la herramienta Power BI para llevar a cabo la visualización de estos, permitiendo así un análisis gráfico más completo de la información recopilada.
 # Referencias: 
