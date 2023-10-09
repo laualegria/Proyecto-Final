@@ -122,9 +122,10 @@ plt.show()
 #Tendencia central: La mediana se muestra como una línea horizontal en el interior de la caja.
 #Outliers(valores atipicos): Los valores atípicos se representan como puntos individuales fuera del del gráfico de caja
 
-df.to_csv('dataset_ataque_cardiaco.csv', index=False) #Se utilizó para descargar el dataset limpio.
+
 
 !pip install pandas_profiling==3.0.0 # Esta biblioteca proporciona un informe de análisis exploratorio de datos (EDA) con una sola línea de código
+!pip install pandas_profiling --upgrade
 
 import pandas_profiling
 
@@ -139,3 +140,5 @@ ataquecardiacoProfile.to_file(output_file="AtaquecardiacoDataProfile.html")
 
 ataquecardiacoProfile.to_notebook_iframe()# Si deseas visualizar el informe dentro del notebook puedes usar la siguiente línea:
 # ataquecardiacoProfile.to_notebook_iframe()
+
+df.to_csv('dataset_ataque_cardiaco.csv', index=False) #Se utilizó para descargar el dataset limpio.
