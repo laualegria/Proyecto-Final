@@ -11,7 +11,7 @@ El análisis y la predicción de ataques cardíacos es una tarea compleja ya que
 Las herramientas que se utilizaron para la elaboración del proyecto fueron:
 1. Kaggle:Se utilizó esta página para la elección de mi dataset.
 2. Google Colab:Se utilizó esta herramienta para la limpieza del dataset.
-3. Power BI: Se utilizó esta herramienta para la visualización de los datos.
+3. Power BI desktop: Se utilizó esta herramienta para la visualización de los datos.
 4. GitHub:Se utilizó esta herramienta para subir los archivos y cumplir con otros requisitos del proyecto. 
  # Resultados e interpretaciones [a través de Power BI]:
 ![image](https://github.com/laualegria/Proyecto-Final/assets/112332809/acf4377e-3267-40c1-9956-de5780f1e7d1) 
