@@ -138,7 +138,4 @@ ataquecardiacoProfile.to_file(output_file="AtaquecardiacoDataProfile.html")
 # Si deseas visualizar el informe dentro del notebook puedes usar la siguiente línea:
 # ataquecardiacoProfile.to_notebook_iframe()
 
-ataquecardiacoProfile.to_notebook_iframe()# Si deseas visualizar el informe dentro del notebook puedes usar la siguiente línea:
-# ataquecardiacoProfile.to_notebook_iframe()
-
 df.to_csv('dataset_ataque_cardiaco.csv', index=False) #Se utilizó para descargar el dataset limpio.
