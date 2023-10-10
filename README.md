@@ -127,7 +127,7 @@ plt.show()
 !pip install pandas_profiling==3.0.0 # Esta biblioteca proporciona un informe de análisis exploratorio de datos (EDA) con una sola línea de código
 !pip install pandas_profiling --upgrade
 
-import pandas_profiling
+import ydata_profiling as pandas_profiling
 
 # Generar el informe
 ataquecardiacoProfile = pandas_profiling.ProfileReport(df)
