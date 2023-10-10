@@ -14,9 +14,9 @@ Las herramientas que se utilizaron para la elaboración del proyecto fueron:
 3. Power BI desktop: Se utilizó esta herramienta para la visualización de los datos.
 4. GitHub:Se utilizó esta herramienta para subir los archivos y cumplir con otros requisitos del proyecto. 
  # Resultados e interpretaciones [a través de Power BI]:
-![image](https://github.com/laualegria/Proyecto-Final/assets/112332809/acf4377e-3267-40c1-9956-de5780f1e7d1) 
-![image](https://github.com/laualegria/Proyecto-Final/assets/112332809/7c0b2975-e4aa-4b10-836d-c96067ff0073) 
-![image](https://github.com/laualegria/Proyecto-Final/assets/112332809/98853611-0819-4f47-9403-39282b0a5d3e)
+<img width="632" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/fe4b30a3-f3c5-4060-8e2a-090cdc455d1e">
+<img width="633" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/30e4cf39-e1a7-4135-baec-57ecf4d269c4">
+<img width="633" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/33e059f9-6635-4eb6-916c-c6a467b406b1">
 
 IMAGEN 1: En la primera página del Power BI utilicé un mapa para visualizar la población de personas con predicción de ataque cardíaco por país y continente. El cual indica que el continente Asiático tiene más población con predicción a un ataque cardíaco.
 IMAGEN 2: En la segunda página del Power BI utilicé una tabla para que se puedan analizar los datos de los pacientes, por ejemplo su ID, edad, datos con algunas enfermedades, si tienen riesgos de ataque cardíaco, entre otros. 
