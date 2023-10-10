@@ -8,7 +8,7 @@ El objetivo de este proyecto es elaborar un respectivo análisis sobre pacientes
 # Descripción de la problemática:
 El análisis y la predicción de ataques cardíacos es una tarea compleja ya que enfrenta múltiples desafíos y muchos factores de riesgo que pueden desencadenar un ataque cardíaco. 
 # Datos utilizados:
-Las herramientas que se utilizó para la elaboración del proyecto fueron:
+Las herramientas que se utilizaron para la elaboración del proyecto fueron:
 1. Kaggle:Se utilizó esta página para la elección de mi dataset.
 2. Google Colab:Se utilizó esta herramienta para la limpieza del dataset.
 3. Power BI: Se utilizó esta herramienta para la visualización de los datos.
