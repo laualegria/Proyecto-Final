@@ -8,10 +8,11 @@ El objetivo de este proyecto es elaborar un respectivo análisis sobre pacientes
 # Descripción de la problemática:
 El análisis y la predicción de ataques cardíacos es una tarea compleja ya que enfrenta múltiples desafíos y muchos factores de riesgo que pueden desencadenar un ataque cardíaco. 
 # Datos utilizados:
-1. Kaggle
-2. Google Colab
-3. Power BI
-4. GitHub
+Las herramientas que se utilizó para la elaboración del proyecto fueron:
+1. Kaggle:Se utilizó esta página para la elección de mi dataset.
+2. Google Colab:Se utilizó esta herramienta para la limpieza del dataset.
+3. Power BI: Se utilizó esta herramienta para la visualización de los datos.
+4. GitHub:Se utilizó esta herramienta para subir los archivos y cumplir con otros requisitos del proyecto. 
  # Resultados e interpretaciones [a través de Power BI]:
 ![image](https://github.com/laualegria/Proyecto-Final/assets/112332809/acf4377e-3267-40c1-9956-de5780f1e7d1) 
 ![image](https://github.com/laualegria/Proyecto-Final/assets/112332809/7c0b2975-e4aa-4b10-836d-c96067ff0073) 
