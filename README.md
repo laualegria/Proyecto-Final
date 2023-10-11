@@ -16,8 +16,7 @@ Las herramientas que se utilizaron para la elaboración del proyecto fueron:
  # Resultados e interpretaciones [a través de Power BI]:
 <img width="628" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/89c2b15e-9aec-4d2a-bff8-b84bb4208f71">
 <img width="634" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/b22bbb11-c899-4888-81b2-8864c645270a">
-<img width="626" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/7cff25f0-cfbd-4441-84fa-b537168b397d">
-
+<img width="631" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/0a532be2-57d7-4d36-a32f-8a5e1d767819">
 
 IMAGEN 1: En la primera página del Power BI utilicé un mapa para visualizar la población de personas con predicción de ataque cardíaco por país y continente. 
 IMAGEN 2: En la segunda página del Power BI utilicé una tabla para que se puedan analizar los datos de los pacientes, por ejemplo su edad, datos con algunas enfermedades, si tienen riesgos de ataque cardíaco, entre otros. Se agregó también dos tarjetas la cual una muestra el promedio de la actividad fisica y la otra muestra si hay riesgo de ataque cardíaco.
@@ -25,6 +24,7 @@ IMAGEN 3: En la tercera página del Power BI utilicé dos gráficos de anillos e
 Y en el otro gráfico de anillos compara la suma de los días de actividad física por semana entre el género masculino y femenino. Como se puede apreciar, el género masculino realiza más ejercicio que el género femenino. 
 *Utilicé un gráfico de barras agrupadas para comparar la obesidad por género.
 *Utilicé un gráfico de columnas apiladas para comparar riesgos previos de corazón por género.
+*Utilicé un gráfico circular en el que compara el riesgo de un ataque cardíaco por género.
 Por último se agregó una segmentación de datos para que se puedan visualizar las gráficas por la filtración de género.
 # Conclusiones:
 Basándonos en los datos recopilados, se llegó a la conclusión de que dependiendo del estilo de vida de las personas puede existir un riesgo significativo de que una gran parte de la población pueda experimentar un ataque cardíaco.
