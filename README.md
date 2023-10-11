@@ -14,18 +14,18 @@ Las herramientas que se utilizaron para la elaboración del proyecto fueron:
 3. Power BI desktop: Se utilizó esta herramienta para la visualización de los datos.
 4. GitHub:Se utilizó esta herramienta para subir los archivos y cumplir con otros requisitos del proyecto. 
  # Resultados e interpretaciones [a través de Power BI]:
-<img width="632" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/fe4b30a3-f3c5-4060-8e2a-090cdc455d1e">
-<img width="633" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/30e4cf39-e1a7-4135-baec-57ecf4d269c4">
-<img width="630" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/e42e848e-d30d-4fb9-871a-370d313fc2cc">
+<img width="628" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/89c2b15e-9aec-4d2a-bff8-b84bb4208f71">
+<img width="634" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/b22bbb11-c899-4888-81b2-8864c645270a">
+<img width="626" alt="image" src="https://github.com/laualegria/Proyecto-Final/assets/112332809/7cff25f0-cfbd-4441-84fa-b537168b397d">
 
 
-IMAGEN 1: En la primera página del Power BI utilicé un mapa para visualizar la población de personas con predicción de ataque cardíaco por país y continente. El cual indica que el continente Asiático tiene más población con predicción a un ataque cardíaco.
-IMAGEN 2: En la segunda página del Power BI utilicé una tabla para que se puedan analizar los datos de los pacientes, por ejemplo su ID, edad, datos con algunas enfermedades, si tienen riesgos de ataque cardíaco, entre otros. 
+IMAGEN 1: En la primera página del Power BI utilicé un mapa para visualizar la población de personas con predicción de ataque cardíaco por país y continente. 
+IMAGEN 2: En la segunda página del Power BI utilicé una tabla para que se puedan analizar los datos de los pacientes, por ejemplo su edad, datos con algunas enfermedades, si tienen riesgos de ataque cardíaco, entre otros. Se agregó también dos tarjetas la cual una muestra el promedio de la actividad fisica.
 IMAGEN 3: En la tercera página del Power BI utilicé dos gráficos de anillos en el cual uno compara las horas de sueño por día entre el género masculino y femenino. Como se puede apreciar, el género femenino tiene menos horas de sueño que el género masculino. 
 Y en el otro gráfico de anillos compara la suma de los días de actividad física por semana entre el género masculino y femenino. Como se puede apreciar, el género masculino realiza más ejercicio que el género femenino. 
-*Utilicé un gráfico de columnas apiladas en el cual hace el recuento de obesidad entre el género masculino y femenino. Como se puede apreciar, el género masculino tiene más problemas de obesidad como el género femenino. 
-*Utilicé un gráfico circular en el que se puede apreciar el recuento de problemas de corazón anteriores por país.
-
+*Utilicé un gráfico de barras agrupadas para comparar la obesidad por género.
+*Utilicé un gráfico de columnas apiladas para comparar riesgos previos de corazón por género.
+Por último se agregó una segmentación de datos para que se puedan visualizar las gráficas por la filtración de género.
 # Conclusiones:
 Basándonos en los datos recopilados, se llegó a la conclusión de que dependiendo del estilo de vida de las personas puede existir un riesgo significativo de que una gran parte de la población pueda experimentar un ataque cardíaco.
 Este riesgo se fundamenta en el análisis realizado, el cual fue de gran ayuda para identificar varios aspectos los cuales pueden aumentar la probabilidad de sufrir un ataque cardíaco. 
