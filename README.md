@@ -33,6 +33,14 @@ Este riesgo se fundamenta en el análisis realizado, el cual fue de gran ayuda p
 Para la elaboración de este proyecto, se recopilaron datos de pacientes y se procedió a realizar una limpieza de los mismos. Esta limpieza fue necesaria para especificar ciertos datos y garantizar una mayor claridad en el análisis. Una vez que los datos estuvieron limpios, se empleó la herramienta Power BI para llevar a cabo la visualización de estos, permitiendo así un análisis gráfico más completo de la información recopilada.
 # Referencias: 
 https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset 
+# Aprendizajes obtenidos:
+*Lo que aprendí de este proyecto fue realizar limpieza de datos con Python
+*Análisis de datos de una forma clara
+*Lectura de gráficos
+
+# Futuras oportunidades de investigación:
+
+
 # Queries, scripts de Python:
 ```Importación de librerias
 import  pandas as pd #Importar la biblioteca pandas con el alias pd
