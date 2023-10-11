@@ -2,7 +2,7 @@
 #Google-Slides:
 https://docs.google.com/presentation/d/1fCN5peVRIdFvjufWmUoP8ujwh57QBvNde12Nz6f5nl4/edit?usp=sharing
 # Presentación: 
-En esta presentación se elaboró un análisis acerca la predicción de ataques cardíacos en las personas.
+En esta presentación se elaboró un análisis acerca la predicción de ataques cardíacos en las personas, gracias a los datos obtenidos del dataset, a la limpieza de datos que se realizó mediante Python, y a la visualización de gráficos mediante Power BI la cual hace que los datos se vean organizados y le de una fácil lectura a la hora de analizarlos. 
 # Objetivo:
 El objetivo de este proyecto es elaborar un respectivo análisis sobre pacientes con predicción de ataques cardíacos mediante datos de historia familiar, exámenes médicos, entre otros, las cuales nos ayuda a predecir la probabilidad de que un paciente sufra un ataque cardíaco. 
 # Descripción de la problemática:
