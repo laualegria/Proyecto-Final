@@ -6,7 +6,7 @@ En esta presentación se elaboró un análisis acerca la predicción de ataques 
 # Objetivo:
 El objetivo de este proyecto es elaborar un respectivo análisis sobre pacientes con predicción de ataques cardíacos mediante datos de historia familiar, exámenes médicos, entre otros, las cuales nos ayuda a predecir la probabilidad de que un paciente sufra un ataque cardíaco. 
 # Descripción de la problemática:
-El análisis y la predicción de ataques cardíacos es una tarea compleja ya que enfrenta múltiples desafíos y muchos factores de riesgo que pueden desencadenar un ataque cardíaco. 
+El análisis y la predicción de ataques cardíacos es una tarea compleja ya que enfrenta múltiples desafíos y muchos factores de riesgo que pueden desencadenar un ataque cardíaco ya que La predicción de un ataque cardíaco no se puede reducir a un solo factor, porque es el resultado de una combinación de factores de riesgo, como la edad, el género, la presión arterial, el colesterol, la diabetes, el tabaquismo, la historia familiar y otros. Estas variables son interdependientes y pueden variar de una persona a otra.
 # Datos utilizados:
 Las herramientas que se utilizaron para la elaboración del proyecto fueron:
 1. Kaggle:Se utilizó esta página para la elección de mi dataset.
