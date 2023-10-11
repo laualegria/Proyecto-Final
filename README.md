@@ -20,7 +20,7 @@ Las herramientas que se utilizaron para la elaboración del proyecto fueron:
 
 
 IMAGEN 1: En la primera página del Power BI utilicé un mapa para visualizar la población de personas con predicción de ataque cardíaco por país y continente. 
-IMAGEN 2: En la segunda página del Power BI utilicé una tabla para que se puedan analizar los datos de los pacientes, por ejemplo su edad, datos con algunas enfermedades, si tienen riesgos de ataque cardíaco, entre otros. Se agregó también dos tarjetas la cual una muestra el promedio de la actividad fisica.
+IMAGEN 2: En la segunda página del Power BI utilicé una tabla para que se puedan analizar los datos de los pacientes, por ejemplo su edad, datos con algunas enfermedades, si tienen riesgos de ataque cardíaco, entre otros. Se agregó también dos tarjetas la cual una muestra el promedio de la actividad fisica y la otra muestra si hay riesgo de ataque cardíaco.
 IMAGEN 3: En la tercera página del Power BI utilicé dos gráficos de anillos en el cual uno compara las horas de sueño por día entre el género masculino y femenino. Como se puede apreciar, el género femenino tiene menos horas de sueño que el género masculino. 
 Y en el otro gráfico de anillos compara la suma de los días de actividad física por semana entre el género masculino y femenino. Como se puede apreciar, el género masculino realiza más ejercicio que el género femenino. 
 *Utilicé un gráfico de barras agrupadas para comparar la obesidad por género.
