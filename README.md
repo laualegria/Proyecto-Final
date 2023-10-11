@@ -76,8 +76,12 @@ df.head()
 
 #Se modificaron los datos de las columnas por unos datos más precisos.
 
-df=df.drop(["Hemisphere"],axis=1) #Se eliminó la columna Hemisphere
+df=df.drop(["Hemisphere"],axis=1) 
+df=df.drop(["Sedentary-Hours-Per-Day"],axis=1)
+df=df.drop(["BMI"],axis=1)
+df=df.drop(["Exercise-Hours-Per-Week"],axis=1)
 df.head()
+#Se eliminaron columnas.
 
 print(df)
 #visualizar el contenido del DataFrame
