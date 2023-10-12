@@ -38,6 +38,7 @@ https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-datase
 *Lo que aprendí de este proyecto fue realizar limpieza de datos con Python
 *Análisis de datos de una forma clara
 *Lectura de gráficos
+*Manejo de GitHub
 
 # Queries, scripts de Python:
 ```Importación de librerias
